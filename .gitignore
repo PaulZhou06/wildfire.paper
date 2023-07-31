@@ -1,0 +1,6 @@
+
+*.zip
+Datasets/FPA_FOD_20170508.sqlite
+Datasets/ml2.csv
+Datasets/tp_zipcode_county.csv
+Datasets/wind_with_fips.csv
