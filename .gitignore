@@ -8,3 +8,6 @@ Datasets/.DS_Store
 .vscode/extensions.json
 .ipynb_checkpoints/data_fill_up-checkpoint.ipynb
 .ipynb_checkpoints/WildfireModels-checkpoint.ipynb
+.ipynb_checkpoints/generate_data_chelan-checkpoint.ipynb
+.ipynb_checkpoints/generate_data_siskiyou-checkpoint.ipynb
+.ipynb_checkpoints/generate_data_trinity-checkpoint.ipynb
