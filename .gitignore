@@ -4,15 +4,10 @@ Datasets/FPA_FOD_20170508.sqlite
 Datasets/ml2.csv
 Datasets/tp_zipcode_county.csv
 Datasets/wind_with_fips.csv
-Datasets/.DS_Store
 .vscode/extensions.json
 .ipynb_checkpoints/data_fill_up-checkpoint.ipynb
 .ipynb_checkpoints/WildfireModels-checkpoint.ipynb
 .ipynb_checkpoints/generate_data_chelan-checkpoint.ipynb
 .ipynb_checkpoints/generate_data_siskiyou-checkpoint.ipynb
 .ipynb_checkpoints/generate_data_trinity-checkpoint.ipynb
-.DS_Store
-.DS_Store
-Datasets/.DS_Store
-Datasets/.DS_Store
 .ipynb_checkpoints/generate_data_for_county-checkpoint.ipynb
